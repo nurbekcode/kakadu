@@ -144,7 +144,7 @@ function head(L) {
 <meta name="format-detection" content="telephone=no">
 <meta name="geo.region" content="UZ">
 <meta name="geo.placename" content="Tashkent">
-<!-- Google Search Console tasdiq kodi: <meta name="google-site-verification" content="KOD"> -->
+<meta name="google-site-verification" content="yDbpE8b2NKL7N6SnoGI1_rDbVHd7smA4ui9PysfAonc">
 <!-- Yandex Webmaster tasdiq kodi: <meta name="yandex-verification" content="KOD"> -->
 <link rel="canonical" href="${url}">
 ${alt}
