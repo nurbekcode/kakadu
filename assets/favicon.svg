@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-label="Kakadu">
+  <defs><clipPath id="d"><circle cx="200" cy="225" r="160"/></clipPath></defs>
+  <path d="M118 345L60 398C80 400 122 390 160 372Z" fill="#0F7F76"/>
+  <circle cx="200" cy="225" r="160" fill="#0F7F76"/>
+  <path d="M146 210C132 146 152 84 210 50C228 40 248 42 254 50C218 64 188 108 190 210Z" fill="#F5B82E"/>
+  <path d="M176 206C172 144 204 98 262 82C278 78 290 82 294 90C254 102 222 136 218 210Z" fill="#E39A12"/>
+  <path d="M206 210C210 162 240 132 292 124C304 122 312 128 314 134C278 142 252 166 244 214Z" fill="#FFD46B"/>
+  <g clip-path="url(#d)">
+    <path d="M96 410C86 310 100 220 150 182C190 152 250 156 280 190C300 214 306 246 298 272C326 310 332 362 322 410Z" fill="#FFFFFF"/>
+    <path d="M118 350C150 306 200 300 244 314C212 334 172 360 146 410L108 410Z" fill="#D4ECE8"/>
+  </g>
+  <path d="M292 212C320 204 346 218 350 250C352 268 346 284 334 294C333 280 322 266 300 262C298 246 295 228 292 212Z" fill="#071827"/>
+  <path d="M300 262C316 264 328 274 328 286C318 290 304 286 296 276Z" fill="#1E3A52"/>
+  <circle cx="258" cy="226" r="15" fill="#FFFFFF" stroke="#BFE3DD" stroke-width="3"/>
+  <circle cx="259" cy="226" r="10" fill="#071827"/>
+  <circle cx="262.5" cy="222" r="3.5" fill="#FFFFFF"/>
+  <ellipse cx="234" cy="264" rx="19" ry="13" fill="#FF8E6E"/>
+  <path d="M372 244Q386 268 372 292" stroke="#19C2B0" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M392 228Q414 268 392 308" stroke="#19C2B0" stroke-width="8" fill="none" stroke-linecap="round"/>
+</svg>

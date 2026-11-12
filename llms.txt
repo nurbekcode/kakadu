@@ -1,0 +1,13 @@
+# Kakadu English
+
+> Kakadu English (kakaduenglish.uz) — O‘zbekistondagi o‘quvchilar uchun ingliz tilini onlayn o‘rganish platformasi. AI ustoz ovozli suhbat qiladi, xatolarni tuzatadi va o‘zbek yoki rus tilida tushuntiradi.
+
+- Asosiy yo‘nalishlar: AI bilan ovozli suhbat, 10 daqiqalik jonli suhbatlar (dunyo bo‘ylab juftlashish), shaxsiy o‘quv yo‘li, lug‘at, grammatika, listening va reading, writing (AI tahlili), speaking tahlili, IELTS va CEFR (Multilevel) tayyorgarligi, gamifikatsiya, progress monitoring.
+- Darajalar: A1 dan C1 gacha.
+- Tillar: o‘zbek, rus, ingliz.
+- Bepul tarif mavjud.
+
+## Sahifalar
+- [O‘zbekcha](https://kakaduenglish.uz/)
+- [Русский](https://kakaduenglish.uz/ru/)
+- [English](https://kakaduenglish.uz/en/)
