@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://kakaduenglish.uz/</loc>
-    <lastmod>2026-11-12</lastmod>
+    <lastmod>2026-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="uz" href="https://kakaduenglish.uz/"/>
@@ -12,7 +12,7 @@
   </url>
   <url>
     <loc>https://kakaduenglish.uz/ru/</loc>
-    <lastmod>2026-11-12</lastmod>
+    <lastmod>2026-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="uz" href="https://kakaduenglish.uz/"/>
@@ -22,12 +22,132 @@
   </url>
   <url>
     <loc>https://kakaduenglish.uz/en/</loc>
-    <lastmod>2026-11-12</lastmod>
+    <lastmod>2026-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="uz" href="https://kakaduenglish.uz/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://kakaduenglish.uz/ru/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://kakaduenglish.uz/en/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://kakaduenglish.uz/"/>
+  </url>
+  <url>
+    <loc>https://kakaduenglish.uz/ingliz-tili-onlayn/</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://kakaduenglish.uz/ingliz-tili-onlayn/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://kakaduenglish.uz/ru/angliyskiy-onlayn/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kakaduenglish.uz/en/online-english-course/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kakaduenglish.uz/ingliz-tili-onlayn/"/>
+  </url>
+  <url>
+    <loc>https://kakaduenglish.uz/ru/angliyskiy-onlayn/</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://kakaduenglish.uz/ingliz-tili-onlayn/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://kakaduenglish.uz/ru/angliyskiy-onlayn/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kakaduenglish.uz/en/online-english-course/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kakaduenglish.uz/ingliz-tili-onlayn/"/>
+  </url>
+  <url>
+    <loc>https://kakaduenglish.uz/en/online-english-course/</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://kakaduenglish.uz/ingliz-tili-onlayn/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://kakaduenglish.uz/ru/angliyskiy-onlayn/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kakaduenglish.uz/en/online-english-course/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kakaduenglish.uz/ingliz-tili-onlayn/"/>
+  </url>
+  <url>
+    <loc>https://kakaduenglish.uz/ielts/</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://kakaduenglish.uz/ielts/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://kakaduenglish.uz/ru/ielts/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kakaduenglish.uz/en/ielts-preparation/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kakaduenglish.uz/ielts/"/>
+  </url>
+  <url>
+    <loc>https://kakaduenglish.uz/ru/ielts/</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://kakaduenglish.uz/ielts/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://kakaduenglish.uz/ru/ielts/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kakaduenglish.uz/en/ielts-preparation/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kakaduenglish.uz/ielts/"/>
+  </url>
+  <url>
+    <loc>https://kakaduenglish.uz/en/ielts-preparation/</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://kakaduenglish.uz/ielts/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://kakaduenglish.uz/ru/ielts/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kakaduenglish.uz/en/ielts-preparation/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kakaduenglish.uz/ielts/"/>
+  </url>
+  <url>
+    <loc>https://kakaduenglish.uz/speaking/</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://kakaduenglish.uz/speaking/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://kakaduenglish.uz/ru/razgovornyy-angliyskiy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kakaduenglish.uz/en/english-speaking-practice/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kakaduenglish.uz/speaking/"/>
+  </url>
+  <url>
+    <loc>https://kakaduenglish.uz/ru/razgovornyy-angliyskiy/</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://kakaduenglish.uz/speaking/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://kakaduenglish.uz/ru/razgovornyy-angliyskiy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kakaduenglish.uz/en/english-speaking-practice/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kakaduenglish.uz/speaking/"/>
+  </url>
+  <url>
+    <loc>https://kakaduenglish.uz/en/english-speaking-practice/</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://kakaduenglish.uz/speaking/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://kakaduenglish.uz/ru/razgovornyy-angliyskiy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kakaduenglish.uz/en/english-speaking-practice/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kakaduenglish.uz/speaking/"/>
+  </url>
+  <url>
+    <loc>https://kakaduenglish.uz/ingliz-tilini-noldan-organish/</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://kakaduenglish.uz/ingliz-tilini-noldan-organish/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://kakaduenglish.uz/ru/angliyskiy-s-nulya/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kakaduenglish.uz/en/learn-english-from-zero/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kakaduenglish.uz/ingliz-tilini-noldan-organish/"/>
+  </url>
+  <url>
+    <loc>https://kakaduenglish.uz/ru/angliyskiy-s-nulya/</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://kakaduenglish.uz/ingliz-tilini-noldan-organish/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://kakaduenglish.uz/ru/angliyskiy-s-nulya/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kakaduenglish.uz/en/learn-english-from-zero/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kakaduenglish.uz/ingliz-tilini-noldan-organish/"/>
+  </url>
+  <url>
+    <loc>https://kakaduenglish.uz/en/learn-english-from-zero/</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://kakaduenglish.uz/ingliz-tilini-noldan-organish/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://kakaduenglish.uz/ru/angliyskiy-s-nulya/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kakaduenglish.uz/en/learn-english-from-zero/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kakaduenglish.uz/ingliz-tilini-noldan-organish/"/>
   </url>
 </urlset>

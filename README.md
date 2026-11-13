@@ -8,11 +8,22 @@
 | Русский | `https://kakaduenglish.uz/ru/` | `ru/index.html` |
 | English | `https://kakaduenglish.uz/en/` | `en/index.html` |
 
+Bundan tashqari har bir tilda 4 tadan SEO qo‘llanma sahifasi bor (jami 12 ta):
+
+| Mavzu | UZ | RU | EN |
+|---|---|---|---|
+| Onlayn kurs | `/ingliz-tili-onlayn/` | `/ru/angliyskiy-onlayn/` | `/en/online-english-course/` |
+| IELTS | `/ielts/` | `/ru/ielts/` | `/en/ielts-preparation/` |
+| Speaking | `/speaking/` | `/ru/razgovornyy-angliyskiy/` | `/en/english-speaking-practice/` |
+| Noldan o‘rganish | `/ingliz-tilini-noldan-organish/` | `/ru/angliyskiy-s-nulya/` | `/en/learn-english-from-zero/` |
+
 ## Tuzilishi
 
 ```
 src/template.html        yagona manba: dizayn, matnlar (3 tilda), JavaScript
-tools/build.mjs          shablondan uchta til sahifasi va sitemap.xml ni yaratadi
+tools/build.mjs          shablondan til sahifalari, qo‘llanmalar, sitemap.xml va llms.txt ni yaratadi
+tools/topics.mjs         qo‘llanma sahifalari matni (3 tilda) — yangi maqola shu yerga qo‘shiladi
+src/guide.css            qo‘llanma sahifalari dizayni (yorug‘ va qorong‘i rejim)
 tools/make-images.mjs    ikonkalar va OG rasmlarni yaratadi (Playwright kerak)
 index.html, ru/, en/     tayyor sahifalar (build natijasi, tahrir qilinmaydi)
 assets/                  logotip, favicon, ilova ikonkalari, OG rasmlar
@@ -77,6 +88,10 @@ Har bir til sahifasida quyidagilar bor:
 | CNAME | www | `<github-login>.github.io` |
 
 3. DNS ishlagach, **Enforce HTTPS** ni yoqing.
+
+## Dark rejim
+
+Saytda yorug‘ va qorong‘i rejim bor. Birinchi kirishda foydalanuvchi qurilmasidagi sozlama qo‘llanadi, menyudagi oy/quyosh tugmasi bilan almashtiriladi va tanlov eslab qolinadi. Ranglar `src/template.html` boshidagi `:root` (yorug‘) va `:root[data-theme="dark"]` (qorong‘i) bloklarida.
 
 ## Brend
 
