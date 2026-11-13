@@ -112,7 +112,7 @@ function sharedHead(L, { title, desc, keywords, url, alternates, ogAlt, type = "
 <meta name="geo.placename" content="Tashkent">
 <meta name="language" content="${L}">
 ${GSC}
-<!-- Yandex Webmaster tasdiq kodi: <meta name="yandex-verification" content="KOD"> -->
+<meta name="yandex-verification" content="de677e4e4a49dbec">
 <link rel="canonical" href="${url}">
 ${alternates.map(([hl, href]) => `<link rel="alternate" hreflang="${hl}" href="${href}">`).join("\n")}
 <link rel="icon" href="/favicon.ico" sizes="48x48">
